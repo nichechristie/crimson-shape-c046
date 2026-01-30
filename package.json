@@ -15,14 +15,14 @@
   "dependencies": {
     "@astrojs/cloudflare": "12.6.6",
     "@astrojs/mdx": "4.0.3",
-    "@astrojs/rss": "4.0.11",
+    "@astrojs/rss": "4.0.15",
     "@astrojs/sitemap": "3.2.1",
     "astro": "5.16.11",
     "typescript": "5.7.2"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250204.0",
-    "wrangler": "4.59.3"
+    "wrangler": "4.60.0"
   },
   "scripts": {
     "astro": "astro",
